@@ -3,6 +3,5 @@ how are you?
 <br>
 where are you from?
 <br>
-what are you doing?
-<list>
-<pr> soft drinks</pr>
+what are you doing?<br>
+<p>list<?p></p>
