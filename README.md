@@ -1,7 +1,21 @@
 # hello
-how are you?
-<br>
-where are you from?
-<br>
-what are you doing?<br>
-<p>list<?p></p>
+<html>
+<head>
+<style>
+code {
+  font-family: Consolas,"courier new";
+  color: crimson;
+  background-color: #f1f1f1;
+  padding: 2px;
+  font-size: 105%;
+}
+</style>
+</head>
+<body>
+
+<p>The HTML <code>button</code> tag defines a clickable button.</p>
+<p>The CSS <code>background-color</code> property defines the background color of an element.</p>
+
+</body>
+</html>
+
