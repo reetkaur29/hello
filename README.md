@@ -1,8 +1,6 @@
 # hello
 <html lang="en">
-<head>
-  <title>Title of the document</title>
-</head>
+
 <body>
 
 <h1>documents</h1>
